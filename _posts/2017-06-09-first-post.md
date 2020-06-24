@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World!"
+title: "This is Usangu's Blog!"
 date: 2017-06-09 12:00:00 -0500
 ---
 
-Hey, it's just my first post!
+I'm KIU Student
 
 From [http://slipsum.com/lite/](http://slipsum.com/lite/):
 
