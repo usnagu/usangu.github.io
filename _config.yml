@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
+name: usangu
+email: wsw0353@naver.com
+url:  https://usnagu.github.io/usangu.github.io/
+description: "Usnagu's Blog"
 author: "author"
-title: "BlogFolio"
-permalink: pretty
+title: "Usnagu"
+permalink: pretty Good
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: Usnagu
 
 twitter:
-  username: username
+  username: Usangu
